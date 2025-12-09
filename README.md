@@ -19,5 +19,5 @@ idiot that just joint
    **how to quote**
 > i love music.
 > > music bring joy. 
-** code formatting**.
-Rc tradition ^`helloword` code
+** code formatting**.  
+Rc tradition `helloword` code
