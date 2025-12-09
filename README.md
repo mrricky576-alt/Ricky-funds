@@ -15,6 +15,9 @@ idiot that just joint
 -childrend 
 1. car
 2. girlfriend
-3. children 
+3. childrend
+   **how to quote**
 > i love music.
-> > music bring joy
+> > music bring joy. 
+** code formatting**.
+Rc tradition ^`helloword` code
