@@ -30,4 +30,4 @@ this will run the code below.
 console.log(''hello word'').
 ```
 the AI model was provided by
-[yvesdylane](<https://g:github.com/yvesdylane>)
+[yvesdylane](https://github.com/yvesdylane)
