@@ -1,2 +1,6 @@
 # Ricky-funds
-my git practicals
+## my git pracicals
+### ricky choice
+#### ricky four
+##### ricky five
+###### ricky six
