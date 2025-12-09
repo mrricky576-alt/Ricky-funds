@@ -16,3 +16,5 @@ idiot that just joint
 1. car
 2. girlfriend
 3. children 
+> i love music.
+> > music bring joy
