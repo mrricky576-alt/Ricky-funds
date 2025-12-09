@@ -6,3 +6,13 @@
 ###### ricky six
 my name is Robino and i am the new   
 idiot that just joint
+**car**
+*motor*
+****house***
+-house. 
+-chairs. 
+-beds. 
+-childrend 
+1. car
+2. girlfriend
+3. children 
