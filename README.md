@@ -23,8 +23,8 @@ idiot that just joint
 the tradition `helloword` code
 **to run my project follow the following task**.
 ```cmd
-git init --in the folder to chose to work on git clone <URL> -- to clone my repo.
-,,,
+git init --in the folder to chose to work git clone <URL> -- to clone my repo.
+```
 this will run the code below.
 ```JavaScript
 console.log(''hello word'').
