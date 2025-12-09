@@ -28,6 +28,6 @@ git init --in the folder to chose to work git clone <URL> -- to clone my repo.
 this will run the code below.
 ```JavaScript
 console.log(''hello word'').
-,,,
+```
 the AI model was provided by
 [yvesdylane](<https://g:github.com/yvesdylane>)
